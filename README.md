@@ -39,4 +39,4 @@ For any inquiries or questions, feel free to reach out to the project maintainer
 - [My Profile](https://github.com/olecsiy-gavrilyuk)
 - olecsiy.havrilyuk@gmail.com
 
-You can also visit my personal website: - [THE MET](https://olecsiy-gavrilyuk.github.io/the-met/)
+You can also visit: - [THE MET](https://olecsiy-gavrilyuk.github.io/the-met/)
