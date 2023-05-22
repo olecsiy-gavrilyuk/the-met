@@ -37,6 +37,6 @@ Contributions to this project are welcome. If you find any bugs or have suggesti
 For any inquiries or questions, feel free to reach out to the project maintainer:
 
 - [My Profile](https://github.com/olecsiy-gavrilyuk)
-- [E-mail](olecsiy.havrilyuk@gmail.com)
+- olecsiy.havrilyuk@gmail.com
 
 You can also visit my personal website: - [THE MET](https://olecsiy-gavrilyuk.github.io/the-met/)
